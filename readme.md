@@ -1,3 +1,3 @@
 # rewire
 
-a bit `rusty`, but ready to roll.
+a bit `rusty` but ready to roll.
